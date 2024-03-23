@@ -1,5 +1,4 @@
 # YotubeRepeater
-Simple batch script to play your favorite youtube video on repeat
 This script takes your favorite YouTube video link and makes it play on repeat.
 Simply input the URL of the video when prompted.
 
