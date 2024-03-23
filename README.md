@@ -1,5 +1,5 @@
 # YotubeRepeater
-This script takes your favorite YouTube video link and makes it play on repeat.
+This script takes your favorite YouTube video (via the URL link) and makes it play on repeat.
 Simply input the URL of the video when prompted.
 
 ## Example
